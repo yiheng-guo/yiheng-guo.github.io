@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yiheng-guo.github.io/al-folio/sitemap.xml
+Sitemap: https://yiheng-guo.github.io/sitemap.xml
