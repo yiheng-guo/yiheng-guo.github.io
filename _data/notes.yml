@@ -1,3 +1,9 @@
+- course: COMP4212
+  notes:
+    - title: "RL Basics"
+      file: /assets/lecture_note/COMP4212/RL Basic.pdf
+
+
 - course: ELEC 2600
   notes:
     - title: "Part 1: Basic Probability "
@@ -5,9 +11,9 @@
     - title: "Part 2: Single Random Variables"
       file: /assets/lecture_note/ELEC2600/Part2_Single Random Variables.pdf
     - title: "Part 3: Multiple Random Variables"
-      file: 
+      file: /assets/lecture_note/ELEC2600/Part 3.pdf
     - title: "Part 4: Stochastic Process"
-      file: 
+      file: /assets/lecture_note/ELEC2600/Part4.pdf
 - course: COMP 3211
   notes:
     - title: "Lecture 2: Reactive Agents"
